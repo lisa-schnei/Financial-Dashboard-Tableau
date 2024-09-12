@@ -4,9 +4,9 @@
 
 ## Project Objective
 
-This project had two objectives. First objective was to build a dashboard in Tableau for the financial department of the AdventureWorks company. The second objective was to use this dashboard as a basis for a presentation presenting insights from the dashboard towards 
-a) the executive leadership team of the company and 
-b) the finance team
+This project had two objectives. First objective was to build a dashboard in Tableau for the financial department of the AdventureWorks company. The second objective was to use this dashboard as a basis for a presentation presenting insights from the dashboard towards: 
+1. the executive leadership team of the company and
+2. the finance team
 
 The dashboard and presentation should give an overview and insights into the company's financial performance, health and operational efficiencies. 
 
@@ -22,8 +22,8 @@ SQL in BigQuery, Tableau, Google Slides
 [**TABLEAU PUBLIC DASHBOARD**](https://public.tableau.com/views/FinancialAnalysisV2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) - Final Tableau dashboard
 
 [**INSIGHTS PRESENTATION**](https://docs.google.com/presentation/d/18FN3XaHby19mkVpWrPZaF04EUt6F7t2chOSQNJPHR7Q/edit?usp=sharing) - Final presentation deck
-Executive leadership presentation: slide 1 - 7
-Finance team presentation: slide 8 - 16
+1. Executive leadership presentation: slide 1 - 7
+2. Finance team presentation: slide 8 - 16
 
 
 ## Data & Context
