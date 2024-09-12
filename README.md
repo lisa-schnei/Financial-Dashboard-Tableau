@@ -1,6 +1,7 @@
-# Project: Building a Sales Dashboard in Tableau
+# Project: Financial Dashboard in Tableau & Insights Presentation
 
 --------------------------------------------
+
 ## Project Objective
 
 This project had two objectives. First objective was to build a dashboard in Tableau for the financial department of the AdventureWorks company. The second objective was to use this dashboard as a basis for a presentation presenting insights from the dashboard towards 
@@ -13,6 +14,7 @@ The dashboard and presentation should give an overview and insights into the com
 SQL in BigQuery, Tableau, Google Slides
 
 
+
 ## Project Content
 
 **EXPLORATORY ANALYSIS & DATA CLEANING - BIGQUERY.SQL** - SQL file containing the exploratory analysis and data cleaning/ preparation steps taken in BigQuery to retrieve the required data
@@ -23,9 +25,11 @@ SQL in BigQuery, Tableau, Google Slides
 Executive leadership presentation: slide 1 - 7
 Finance team presentation: slide 8 - 16
 
+
 ## Data & Context
 
 **Data Source:** [AdventureWorks company dataset](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+
 
 
 ## Output
